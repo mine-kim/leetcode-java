@@ -10,18 +10,6 @@ package data.structure.linkedlist;
  * Output: no cycle
  * Explanation: There is no cycle in the linked list.
  *
- * Definition for singly-linked list.
- * class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
- *
- * 0(n)
- * 0(n)
  */
 public class LinkedListCycle2 {
     public ListNode detectCycle(ListNode head) {
