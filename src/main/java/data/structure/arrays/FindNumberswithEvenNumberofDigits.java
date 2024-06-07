@@ -1,7 +1,5 @@
 package data.structure.arrays;
 
-import java.util.Arrays;
-
 /**
  * https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/
  *
