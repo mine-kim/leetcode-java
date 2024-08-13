@@ -1,10 +1,12 @@
 package data.structure.queuestack;
 
-import javax.swing.plaf.synth.SynthTextAreaUI;
 import java.util.ArrayDeque;
-import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1388/
+ *
+ */
 public class Matrix {
     public int[][] updateMatrix(int[][] mat) {
         int rows = mat.length;
